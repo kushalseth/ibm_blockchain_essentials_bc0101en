@@ -44,7 +44,7 @@
 > Only those two parties who are invovled in that tranactions can see the details. This is what we mean by privacy in Blockchain. 
 
 
-- Four important points of Blockchain for privacy services:
+- Four important points of Blockchain for privacy services and building trust:
 
 1. Consensus: We determine who within the network can validate or approve the tranaction
 2. Provenance: This can be thought of as Complete Audit trail of an Asset, who has owned the asset throughout the lifecycle of asset. 
@@ -64,4 +64,19 @@ This helps to resolve the conflicts very easily.
 
 
 ##### Requirements for blockchain in a business environment
-1. Shared Ledger: Append-only  
+1. Shared Ledger: All the participants in the Business Network have their own copy of sum of this distributed ledger but due to permissioning in the blockchain network, we can control who can see what part of the blockchain. This increases the trust.
+
+2. Smart Contracts: Business logic is implied by the contract.. embedded in Blockchain and executed with Blockchain. Verifiable and signed
+
+3. Privacy: Appropriate confidentiality between subsets of participants.
+
+4. Trust: The way we handle efficiency in business blockchain is the selected members in the network validates the tranansaction. This gives us verifiable audit trail of everything, ie who owned what in the business network.
+
+
+QUIZ: What are the core requirement for a business blockchain? 
+OPTIONS: 
+[] Optimized cryptographic mining 
+[] Technical services, business services and solution 
+[] A new cryptocurrency (x) 
+[] Shared ledger, smart contract, privacy and trust 
+

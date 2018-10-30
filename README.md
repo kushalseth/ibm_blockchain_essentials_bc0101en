@@ -3,6 +3,13 @@
 - This course is on @cognitive-class https://cognitiveclass.ai/courses/blockchain-course/ 
 - I have made the repo to summerize the skills I have learned in the course.
 - I have not shared any quiz/exam answers. 
+- - Thanks @cognitive-class and @ibmtraining 
+	- My Badget: https://www.youracclaim.com/badges/68e30501-b573-4272-8116-f73b23a4ecda/linked_in
+
+	![My Badget](images/blockchainessentials2.png)
+
+	![My Certificate](images/blockchainessentials.png)
+
 
 # Course Outline 
 
