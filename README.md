@@ -52,3 +52,10 @@
 - Set up the Hyperledger Composer Playground
 - Transfer assets in a blockchain network
 - Explore editor views archive data
+
+##### Lab Description
+- Car Aution Sample [Transfeerring of asset from one party to another]
+- There will be three participants
+	- Alice - makes a bid on the Car
+	- Bob - makes a bid on the Car
+	- Charlie - current owner of the Car
